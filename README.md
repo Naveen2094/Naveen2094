@@ -3,4 +3,12 @@
 <div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Naveen2094.Naveen2094" /> </div>
 <h1 align="center">Hey there 👋</h1>
 <h3 align="left">👨‍💻 About Me</h3> <p align="left">I'm an aspiring full-stack developer passionate about building web and mobile applications.<br><br> - 🔭 I’m working on cool personal projects<br> -  ⚡ In my free time, I enjoy exploring new tech and building apps</p>
-<h3 align="left">🛠 Languages and Tools</h3> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" /> </div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Design-Figma-purple?style=flat&logo=figma" />
+</p>

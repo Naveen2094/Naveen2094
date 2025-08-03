@@ -3,6 +3,13 @@
 <div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Naveen2094.Naveen2094" /> </div>
 <h1 align="center">Hey there 👋</h1>
 <h3 align="left">👨‍💻 About Me</h3> <p align="left">I'm an aspiring full-stack developer passionate about building web and mobile applications.<br><br> - 🔭 I’m working on cool personal projects<br> -  ⚡ In my free time, I enjoy exploring new tech and building apps</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/12I8WK9ZNOAUGdcCW3ldZfi83XSje69ld/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Code-HTML5-orange?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/Code-CSS3-blue?style=flat&logo=css3" />

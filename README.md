@@ -5,7 +5,7 @@
 <h3 align="left">👨‍💻 About Me</h3> <p align="left">I'm an aspiring full-stack developer passionate about building web and mobile applications.<br><br> - 🔭 I’m working on cool personal projects<br> -  ⚡ In my free time, I enjoy exploring new tech and building apps</p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/12I8WK9ZNOAUGdcCW3ldZfi83XSje69ld/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/19aYofonqqM-72ihZN8cjTmqtcEbHX1A6/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄 Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
